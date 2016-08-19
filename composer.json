@@ -1,5 +1,5 @@
 {
-  "name": "quodos/laravel-countries",
+  "name": "dddbliss/laravel-countries",
   "description": "Laravel package providing easy access to country arrays.",
   "keywords": ["laravel", "laravel5", "countries", "country list"],
   "license": "MIT",
@@ -11,7 +11,7 @@
   ],
   "require": {
     "php": ">=5.4.0",
-    "illuminate/support": "~5.0.0",
+    "illuminate/support": "~5.3.0",
     "umpirsky/country-list": "*"
   },
   "require-dev": {
